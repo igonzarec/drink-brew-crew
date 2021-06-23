@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688885774725",
+    "project_id": "drink-brew-crew",
+    "storage_bucket": "drink-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688885774725:android:347203c978309cf156acec",
+        "android_client_info": {
+          "package_name": "com.ivanyoed.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688885774725-o0usqemlql2eli96qccmn7vd0v6579su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHcT0BgP9JUoQjlZCA7ZFBRXL4k-oM7Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688885774725-o0usqemlql2eli96qccmn7vd0v6579su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
