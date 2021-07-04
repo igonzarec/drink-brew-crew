@@ -6,11 +6,12 @@ import 'package:provider/provider.dart';
 
 //from: https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
 
-// stayed at: https://youtu.be/mtNA1neFNVo?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
+// stayed at: https://youtu.be/eelKWYwUm5w?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&t=4
 
 /// Plugin project :firebase_core_web not found. Please update settings.gradle.
 
 // save on github
+
 
 //github repo: https://github.com/iamshaunjp/flutter-firebase
 
